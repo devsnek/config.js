@@ -1,0 +1,16 @@
+{
+  "name": "config.js",
+  "version": "1.0.0",
+  "author": "snek <me@gus.host>",
+  "license": "MIT",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsnek/config.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devsnek/config.js/issues"
+  },
+  "homepage": "https://github.com/devsnek/config.js#readme"
+}
